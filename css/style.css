@@ -1,0 +1,28 @@
+body {
+    font-family: tahoma;
+    background-color: black;
+}
+
+#title {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.text-content {
+    color: #BB751C;
+}
+
+table  {
+    color: white;
+}
+
+table th {
+    color: #BB751C;
+}
+
+table .item-center {
+    text-align: center;
+}
